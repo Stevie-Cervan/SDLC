@@ -1,9 +1,9 @@
 Software Design Life Cycle
 
 Definition
+SDLC (System Development Life Cycle) is a process for planning, creating, testing, and deploying an information system to an application in software development. Though is can be appplied to development in general.
 
 Stages
-
 1) Identify the problem: Find out what the problem is. This would mean to get all input from people you are working with. Identify the strengths and weaknesses of a system.
 2) Plan: Identify what you want and determine the cost and resources that are needed for implementing the analyzed requirements. In other words, the team should figure out if the plan can be accomplished and the successabiliy rate.
 3) Design: Figure out how you want to get what you want. It is important to gather input from the team in order to work at achieving a better and more effiecient application. 
